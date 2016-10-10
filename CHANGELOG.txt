@@ -1,1 +1,2 @@
-2016.10.10. - Created project
+2016.10.10.  - Created project
+             - Added README and CHANGELOG
